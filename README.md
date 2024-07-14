@@ -1,2 +1,8 @@
-# Crop-Yield-Prediction-using-ML
-This project utilizes machine learning to predict rice crop yields in Tamil Nadu, India. It leverages historical data on crop area, nutrient usage (NPK), and environmental factors to forecast yield outcomes. The goal is to assist farmers and policymakers in optimizing agricultural practices for better productivity and sustainability 
+# Diabetes_Prediction
+A diabetes predicting model using tensorflow.
+
+The model predicts wheter a woman suffers with diabetes or not based on the woman's number of pregnancies, BP, BMI, age etc.
+
+We have analysed the trends and built a tensorflow sequential model.
+
+Flowchart : importing modules --> loading dataset --> data visualization --> scaling and randomsampling --> splitting test,train and dev sets -->building the model -->testing on test data
